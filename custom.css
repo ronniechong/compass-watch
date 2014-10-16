@@ -1,0 +1,41 @@
+/* line 4, custom.scss */
+body {
+  font-family: "Verdana", "Arial", sans-serif;
+  line-height: 140%;
+  font-size: 100%;
+  color: #222222;
+}
+
+/* line 11, custom.scss */
+h1 {
+  font-size: 3em;
+  font-weight: 500;
+  margin-bottom: 0.5em;
+  color: #626262;
+}
+
+/* line 18, custom.scss */
+h2 {
+  font-size: 2em;
+  font-weight: 500;
+  margin-bottom: 0.5em;
+}
+
+/* line 24, custom.scss */
+p {
+  font-size: 1em;
+  margin-bottom: 1em;
+}
+
+/* line 29, custom.scss */
+code {
+  background-color: lightblue;
+  display: inline-block;
+  padding: 4px;
+}
+
+/* line 35, custom.scss */
+.container {
+  width: 60%;
+  margin: 10% auto;
+}
